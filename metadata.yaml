@@ -1,0 +1,36 @@
+_repo: Le-barbier-de-S-ville-ou-la-pr-caution-inutile_36826
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beaumarchais, Pierre Augustin Caron de
+    aliases:
+    - Beaumarchais
+    - Beaumarchais, M. de (Pierre Augustin Caron)
+    - Caron de Beaumarchais, Pierre Augustin
+    - De Beaumarchais, Pierre Augustin Caron
+    birthdate: 1732
+    deathdate: 1799
+    gutenberg_agent_id: '7962'
+    url: http://www.gutenberg.org/2009/agents/7962
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Beaumarchais
+description: ''
+gutenberg_bookshelf:
+- FR Théâtre
+- Banned Books from Anne Haight's list
+gutenberg_issued: '2011-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36826'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama -- 18th century'
+- !lcsh 'Comedies'
+- !lcc 'PQ'
+title: Le barbier de Séville; ou, la précaution inutile
+url: http://www.gutenberg.org/ebooks/36826
