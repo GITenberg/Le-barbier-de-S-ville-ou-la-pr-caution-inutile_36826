@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7962
     wikipedia: http://en.wikipedia.org/wiki/Pierre_Beaumarchais
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36826#Le-barbier-de-S-ville-ou-la-pr-caution-inutile
 gutenberg_bookshelf:
 - FR Théâtre
 - Banned Books from Anne Haight's list
